@@ -16,4 +16,13 @@ Official Access to ACM MM2024：“Subjective and Objective Quality-of-Experienc
 ## Database Accessible
 Frontal Movies : [Baidu Yun Pan](https://pan.baidu.com/s/1fMxxVkMt-E1cPrHUGtsMgQ)(code:thqa) | [Onedrive]()
 
-Meta Data (OBJ+UV): is coming
+Meta Data (OBJ+UV): 
+
+** WARNING: The Meta Data is large so that you must make sure your disk have enough space!!! **
+
+Reference OBJs + UVs + MTLs (2GB): [Baidu Yun Pan](https://pan.baidu.com/s/1DqpEDrxgwT_4HayKVW2nnw)(code:thqa) 
+
+Distorted OBJs + UVs + MTLs Part I - Stream Level Change (18GB): is coming soon
+
+Distorted OBJs + UVs + MTLs Part II - Other (xxGB): is coming soon
+
