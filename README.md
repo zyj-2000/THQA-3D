@@ -22,7 +22,7 @@ Meta Data (OBJ+UV):
 
 Reference OBJs + UVs + MTLs (2GB): [Baidu Yun Pan](https://pan.baidu.com/s/1DqpEDrxgwT_4HayKVW2nnw)(code:thqa) 
 
-Distorted OBJs + UVs + MTLs Part I - Stream Level Change (18GB): is coming soon
+Distorted OBJs + UVs + MTLs Part I - Stream Level Change (5.5GB): [Baidu Yun Pan](https://pan.baidu.com/s/16zckKfZ3X1OrYaUkNI280Q)(code:thqa) 
 
 Distorted OBJs + UVs + MTLs Part II - Other (xxGB): is coming soon
 
