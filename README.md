@@ -14,7 +14,10 @@ Official Access to ACM MM2024：“Subjective and Objective Quality-of-Experienc
 <img alt="thqa" src="https://github.com/zyj-2000/THQA-3D/blob/main/pic/distortion.png" width="92%">
   
 ## Database Accessible
-Frontal Movies : [Baidu Yun Pan](https://pan.baidu.com/s/1fMxxVkMt-E1cPrHUGtsMgQ)(code:thqa) | [Onedrive]()
+
+You can also get THQA-3D dataset from [HuggingFace](https://huggingface.co/datasets/zyj2000/THQA-3D/)
+
+Frontal Movies : [Baidu Yun Pan](https://pan.baidu.com/s/1fMxxVkMt-E1cPrHUGtsMgQ)(code:thqa) 
 
 Meta Data (OBJ+UV): 
 
