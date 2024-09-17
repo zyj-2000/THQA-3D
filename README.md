@@ -27,5 +27,5 @@ Reference OBJs + UVs + MTLs (2GB): [Baidu Yun Pan](https://pan.baidu.com/s/1DqpE
 
 Distorted OBJs + UVs + MTLs Part I - Stream Level Change (5.5GB): [Baidu Yun Pan](https://pan.baidu.com/s/16zckKfZ3X1OrYaUkNI280Q)(code:thqa) 
 
-Distorted OBJs + UVs + MTLs Part II - Other (xxGB): is coming soon
+Distorted OBJs + UVs + MTLs Part II - Other (11.6GB): [Baidu Yun Pan](https://pan.baidu.com/s/1hjoc_qJ1J9ZQSHb1GIctXg?pwd=thqa)(code:thqa) 
 
