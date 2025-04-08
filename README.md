@@ -15,5 +15,5 @@ Official Access to ACM MM2024：“Subjective and Objective Quality-of-Experienc
   
 ## Database Accessible
 
-**The link is lost for now, it will be back soon!**
+[THQA-3D.zip](https://pan.baidu.com/s/1h0XLbHEVNTDFJcinU4vdRg?pwd=thqa)
 
