@@ -1,6 +1,10 @@
 # THQA-3D
 Official Access to ACM MM2024：“Subjective and Objective Quality-of-Experience Assessment for 3D Talking Heads”
 
+**Authors:** Yingjie Zhou, Zicheng Zhang, Wei Sun, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai
+
+**Institution:** PengCheng Laboratory, Shanghai Jiaotong University
+
 ## 🌋 System & Background
 <p align="center">
 <img alt="thqa" src="https://github.com/zyj-2000/THQA-3D/blob/main/pic/system.png" width="92%">
